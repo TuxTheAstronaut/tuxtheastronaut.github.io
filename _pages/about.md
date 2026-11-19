@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 This is the front page of my website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com)
 
 Here you can find some of my projects ive worked on such as the games ive released on itch.io and the repositories I have on GitHub.
