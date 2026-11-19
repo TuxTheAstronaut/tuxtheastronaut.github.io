@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My portfolio website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My portfolio website
 ======
 This is the front page of my website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com)
 
